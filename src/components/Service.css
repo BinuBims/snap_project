@@ -1,0 +1,6 @@
+.card-group{
+    margin-right: 20%;
+}
+.card-group>.card{
+    background-color: rgb(252, 246, 235);
+}
